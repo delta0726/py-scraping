@@ -1,5 +1,7 @@
 """
+Title : スクレイピング＆クローリングデータ収集
 Theme : 秀和システムのデータを取得する（縮小版）
+Topic : 秀和システムのデータを取得する（縮小版）
 Page  : 50 - 61
 """
 
@@ -7,7 +9,6 @@ import time
 import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from selenium.webdriver.chrome import service as fs
 from webdriver_manager.chrome import ChromeDriverManager
 
 # パラメータ設定
