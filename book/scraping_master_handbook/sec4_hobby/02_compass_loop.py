@@ -1,8 +1,9 @@
 """
-Title : スクレイピング＆クローリングデータ収集
-Theme : 秀和システムのデータを取得する（縮小版）
-Topic : IT勉強会の情報を取得する（APIの活用） ループ版
-Page  : P65 - 70
+Title   : スクレイピング＆クローリングデータ収集
+Section : 4 趣味に活かす情報収集偏
+Theme   : IT勉強会の情報を取得する（APIの活用・ループ版）
+Date    : 2023/2/26
+Page    : P65 - 70
 """
 
 import pandas as pd
