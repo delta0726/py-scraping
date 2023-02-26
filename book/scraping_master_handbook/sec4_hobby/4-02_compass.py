@@ -43,7 +43,7 @@ if __name__ == "__main__":
     # パラメータ設定
     KEYWORLD = "Python"
     YM = 202303
-    OUTPUT = "sec4_hobby/output/02_compass.csv"
+    OUTPUT = "sec4_hobby/output/04-02_compass.csv"
 
     # データ取得
     get_event(keyword=KEYWORLD, ym=YM, output=OUTPUT)
