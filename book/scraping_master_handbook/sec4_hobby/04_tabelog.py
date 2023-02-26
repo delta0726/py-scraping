@@ -1,10 +1,11 @@
 """
-Title : スクレイピング＆クローリングデータ収集
-Theme : 秀和システムのデータを取得する（縮小版）
-Topic : 食べログの飲食店データを取得する
-Date  : 2023/2/26
-Page  : P76 - P83
+Title   : スクレイピング＆クローリングデータ収集
+Section : 4 趣味に活かす情報収集偏
+Theme   : 4 食べログの飲食店データを取得する）
+Date    : 2023/2/26
+Page    : P76 - P83
 """
+
 
 import time
 import pandas as pd

@@ -1,7 +1,7 @@
 """
 Title   : スクレイピング＆クローリングデータ収集
 Section : 4 趣味に活かす情報収集偏
-Theme   : Githubトレンドのデータを取得する
+Theme   : 3 Githubトレンドのデータを取得する
 Date    : 2023/2/26
 Page    : P65 - 70
 """
